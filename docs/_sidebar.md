@@ -5,4 +5,4 @@
 - **Linki**
 
 - [Instalacja](https://sefaris.eu/g3-mod-pack/installation)
-- [Team Sefaris](https://sefaris.eu)
+- [Strona Sefaris](https://sefaris.eu)
