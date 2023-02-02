@@ -1,6 +1,6 @@
 - **Spis treści**
-- [Zadania](quests.md)
-- [Opisy modyfikacji](mods.md)
+- [Zadania](quests.md?id=Zadania)
+- [Opisy modyfikacji](mods.md?id=Modyfikacje)
 
 - **Linki**
 
