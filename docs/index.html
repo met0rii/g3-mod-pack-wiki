@@ -28,6 +28,9 @@
       repo: 'https://github.com/sebastiansobek/g3-mod-pack-wiki',
       loadSidebar: true,
       subMaxLevel: 2,
+      requestHeaders: {
+        'cache-control': 'max-age=0'
+      },
       plugins: [
         function (hook, vm) {
           hook.beforeEach(function (html) {
