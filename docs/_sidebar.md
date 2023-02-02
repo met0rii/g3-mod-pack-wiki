@@ -1,9 +1,10 @@
-- [Instalacja](installation.md)
-- Zadania
-  - [Rozdział 1](chapters/1.md)
-- Przedmioty
+- **Spis treści**
+- [Instalacja](https://sefaris.eu/g3-mod-pack/installation)
+- [Zadania](quests.md)
+- Opisy modyfikacji
 
-  - [Spis wszystkiego](items.md)
+  - [LTM](mods/ltm.md)
 
 - **Linki**
+
 - [![image](https://sefaris.eu/favicon.ico) sefaris.eu](https://sefaris.eu)
