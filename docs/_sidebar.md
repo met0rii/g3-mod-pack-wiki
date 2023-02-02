@@ -1,6 +1,7 @@
 - **Spis treści**
 - [Zadania](quests.md?id=Zadania)
 - [Opisy modyfikacji](mods.md?id=Modyfikacje)
+- [Łatwiutko](test.md?id=)
 
 - **Linki**
 
